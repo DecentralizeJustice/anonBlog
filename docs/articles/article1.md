@@ -1,12 +1,11 @@
 ---
-Author: Nemo
-Updated: 2022-06-01
-image: https://images.unsplash.com/photo-1664575198263-269a022d6e14?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+Updated: 2022-11-15
+image: https://res.cloudinary.com/dylevfpbl/image/upload/v1673328539/blog/dgoon21_computer_fall_leaves_autumn_4ba165b9-ede2-4380-bb91-6397a594021d.png
 ---
 
 # November In Review
 
-> lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+> 
 
 <!-- more -->
 

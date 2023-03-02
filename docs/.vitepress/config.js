@@ -1,15 +1,15 @@
 export default {
   themeConfig: {
     nav: [
-      { text: 'Guide', link: '/guide' },
-      {
+      { text: 'Anon Shop', link: 'https://anonshop.app/' },
+/*       {
         text: 'Dropdown Menu',
         items: [
           { text: 'Item A', link: '/item-1' },
           { text: 'Item B', link: '/item-2' },
           { text: 'Item C', link: '/item-3' }
         ]
-      }
+      } */
     ]
   },
   title: 'Anon Shop Blog',

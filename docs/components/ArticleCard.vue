@@ -10,8 +10,8 @@
             <p class="excerpt">{{ truncateText(excerpt, 50) }}</p>
             <div class="author">
               <div>
-                <h3 class="name">{{ author }}</h3>
-                <p class="date">{{ date }}</p>
+                <!-- <h3 class="name">{{ author }}</h3> -->
+                <p class="date">{{ getDate(Date.parse(date)) }}</p>
               </div>
             </div>
           </div>
@@ -48,6 +48,13 @@
       },
     },
     methods: {
+      getDate(epoch){
+        var d = new Date(epoch)
+        const month = d.toLocaleString('default', { month: 'long' });
+        const day = d.getDay()
+        const year = d.getFullYear()
+        return day + " " + month + " " + year
+      },
       truncateText(text, length) {
         if (text.length > length) {
           return text.substring(0, length) + "...";
