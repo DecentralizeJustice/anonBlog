@@ -11,5 +11,7 @@ export default {
         ]
       }
     ]
-  }
+  },
+  title: 'Anon Shop Blog',
+  description: 'The blog for Anon Shop',
 }

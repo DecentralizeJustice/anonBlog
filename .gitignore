@@ -133,5 +133,4 @@ dist
 data.json
 _metadata.json
 docs/.vitepress/cache/deps/_metadata.json
-.docs/.vitepress/cache/
-
+docs/.vitepress/cache/
