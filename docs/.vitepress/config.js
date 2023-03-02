@@ -14,4 +14,12 @@ export default {
   },
   title: 'Anon Shop Blog',
   description: 'The blog for Anon Shop',
+  head: [
+    ['script', 
+      {
+        src: 'https://plausible.io/js/script.js', 
+        "data-domain":  'blog.anonshop.app',
+        defer: ''
+  }]
+  ]
 }
