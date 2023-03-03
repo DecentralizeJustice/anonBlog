@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/dylevfpbl/image/upload/v1677821493/blog/dgoon2
 
 # December-February Overview
 
-> How much is 1,000 Twitter Followers Worth?
+> How much are 1,000 Twitter Followers Worth?
 
 <!-- more -->
 
@@ -25,7 +25,7 @@ This month I have been focusing on twitter. The goal for twitter was to build a 
         height="auto" 
         style="display: block; margin: 0 auto; padding-bottom: 5vh;" />
 
-My twitter growth was effective at driving people to my site whenever I tweet about it. Every time I tweet about my service, I get a large spike in visits to my landing page.
+My Twitter growth was effective at driving people to my site whenever I tweet about it. Every time I tweet about my service, I get a large spike in visits to my landing page.
 <img src="https://res.cloudinary.com/dylevfpbl/image/upload/v1677823716/blog/random/Screenshot_2023-03-03_010749.png" 
         width="auto" 
         height="auto" 
