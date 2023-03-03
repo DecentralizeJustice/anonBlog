@@ -1,59 +1,48 @@
 ---
 Author: Author 2
-Updated: 2022-06-01
-image: https://images.unsplash.com/photo-1665129059445-b31f47edf843?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80
+Updated: 2023-02-23
+image: https://res.cloudinary.com/dylevfpbl/image/upload/v1677821493/blog/dgoon21_boss_baby_with_money_0172463d-ce50-478c-9f9f-13a9a6623d73.png
 ---
 
-# Maiorque sermonibus nectare
+# December-February Overview
 
-> lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+> How much is 1,000 Twitter Followers Worth?
 
 <!-- more -->
 
-## Est qui naiades sustinet tremulo ferrum Byblis
+## Twitter
 
-Lorem markdownum auro virorum ne quid, aevi torrentur trementes cruentum oculos
-[Letoidos](http://felicisque-relicta.io/meropis). Aequalibus montis nuntia.
-Supplice marmore numquam, videt ora, nec albet unda rogantem sine prodet,
-iacent.
+<img src="https://res.cloudinary.com/dylevfpbl/image/upload/v1677822768/blog/random/giphy.webp" 
+        width="auto" 
+        height="auto" 
+        style="display: block; margin: 0 auto; padding-bottom: 5vh;" />
+This month I have been focusing on twitter. The goal for twitter was to build a following so that I would be able to have an audience to share Anon Shop with. It does not matter how good your product is if no one knows about it. I was able to gain about 1,000 followers in two months, so I would say it was a success. My tweets even got me some [interviews](https://www.youtube.com/live/esxj_FI0nPY?feature=share). You can track my tweet [success](https://typefully.com/AnonShopApp/stats)
+ here. How much money and sales did we make from these tweets?  
 
-## Illa confundimur nubila senectae perque
+## Cash Money?
+<img src="https://res.cloudinary.com/dylevfpbl/image/upload/v1677823479/blog/random/adfafdfa.gif" 
+        width="auto" 
+        height="auto" 
+        style="display: block; margin: 0 auto; padding-bottom: 5vh;" />
 
-Sic adest: tot, me inerti Lyaeus. Capiti sua cui fraudate, vox credens insula,
-memorabat nivea. Nunc nobis **crimen** vocem ignis metuit, [vestra
-arceor](http://et.io/impiaiunctissima) animis: et.
+My twitter growth was effective at driving people to my site whenever I tweet about it. Everytime I tweet about my service, I get a large spike in visits to my landing page.
+<img src="https://res.cloudinary.com/dylevfpbl/image/upload/v1677823716/blog/random/Screenshot_2023-03-03_010749.png" 
+        width="auto" 
+        height="auto" 
+        style="display: block; margin: 0 auto; padding-bottom: 5vh;" />
 
-> Aliter fer quoque lumina inplent et atque ultor, Auguste condidit sub erat
-> raptaque. Se fabrae leve sine ducentem ereptam versi quaque, atria ab citharae
-> neque ope e extremo rorant, versus. Sortis nocuit et ut dum gratia lateantque
-> parentis me nubes sua blanditus gestit et prodita Aeneae, in. Creditur
-> ostendere tellus.
+[Website Stats](https://plausible.io/anonshop.app) <br/>
 
-## Litora quem dedit colore nullus
+This issue is that I am not able to convert these visits to sales. Marketing != Sales. This past month has been an ok month, but there was not a tight correlation between follows and sales. We did around ~4,000 (very rough estimate) in sales this past month. That is topline revenue. So we made profit, but not a ton. We have seen growth though, and it's awesome to put something out and have the community support it. I look forward to future growth. 
 
-Tenebit nihil; gloria revocata forte, quin duris putaret ipse cepere absens! Per
-facit Tritonia terrae in verbis aequor dulcedine lymphis? Inferre illa, usque,
-vultu iam est aperire quid? Idem laesi _recingitur curva_ circumdata di borea
-gelidas est rogus. Biformis positaeque spes caput mollibus his alba carpe **ille
-pro** quoniam artus advehor tenui elige vidit.
+## Why are you being so open?
 
-> Vidit viscera egressus! Nec _tandem sequitur_, simul si inhospita urbem
-> onerosus dum ultra iudex, odoro iuncta. Lupis est donasse in obnoxia sibi.
-> Hunc quod non, res diros nupsi miracula ratem. Capienda harenam trabibus rupit
-> medius insilit et luctor quemque nec.
+I have spent years studying privacy projects and how they make money. I hate how most
+privacy companies don't tell you anything about the business. So I hope that my little experiment at anon shop can inspire other people to start their own business. 
 
-## Fronde vestras pomi
+## Whats Next
 
-Redeunt te Iove traxere visa nemora flexit, artificem obside virginitate iactas
-dicit et ignis? Ardua ergo, sequenti in erat cinximus,
-[et](http://pro.org/solvit-in) Meropis [nobilis multis](http://nervisdeum.com/),
-viri sum resistit!
+I am going to be taking a break from tweeting everyday to work on expanding Anon Shop. I need to do some dev work and add the ability for people to place orders in Monero and receive a discount. I hope to have this feature launched by next week so stay tuned if that is something that you want to use. Here is the [github](https://github.com/DecentralizeJustice/anonymousLocker/tree/btcpayEarner) if you want to track its development. 
 
-1. Desuetudine lugebat arceor pietasque a pondere tenet
-2. Ratis mihi iubar robora fallique te Troiam
-3. Mediis laudem in sonanti passibus nec arma
-4. Non disces multi totis sapiente
-5. Totiens non modo tristis factus dissipat est
-
-Tumet patriam indulgent haesisse Minyae, est omnes libebat Telamonque artificem
-et tibi Alcyone casus. Fluctus nunc vigiles madefacta deriguere quem.
+## Thanks
+I hope you found this quick write up entertaining. I would like to thank Doug and Sunita from Monerotopia for being awesome and letting me do the dev segment on thier show. I also want to thank [Vanessa](https://twitter.com/technologypoet) for the awesome interview. Most importantly I want to thank my awesome customers. Yall trusted a random person on the internet with your Monero and thank you so much for that leap of faith. I will continue to build a better service for the world to enjoy. 
