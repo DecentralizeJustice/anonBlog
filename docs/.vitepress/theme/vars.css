@@ -1,8 +1,9 @@
 :root {
-    --vp-c-brand: #ff6600;
-    --c-brand-light: #ff6600;
-    --vp-c-brand-light:  #ff6600;
-    --vp-c-brand-lighter:  #ff6600;
-    --vp-c-brand-dark:  #ff6600;
-    --vp-c-brand-darker:  #ff6600;
+  --vp-c-brand: rgb(255, 115, 64);
+  --vp-c-brand-light: rgb(255, 87, 25);
+  --vp-c-brand-lighter: rgb(255, 115, 64);
+  --vp-c-brand-dark: #FF622D;
+  --vp-c-brand-darker: rgb(226, 60, 0);
   }
+/* 
+  https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/ */
