@@ -42,7 +42,9 @@ privacy companies don't tell you anything about the business. So I hope that my 
 
 ## Whats Next
 
-I am going to be taking a break from tweeting every day to work on expanding Anon Shop. I need to do some dev work and add the ability for people to place orders in Monero and receive a discount. I hope to have this feature launched by next week so stay tuned if that is something that you want to use. Here is the [github](https://github.com/DecentralizeJustice/anonymousLocker/tree/btcpayEarner) if you want to track its development. 
+I am going to be taking a break from tweeting every day to work on expanding Anon Shop. I need to do some dev work and add the ability for people to place orders in Monero and receive a discount. I hope to have this feature launched by next week so stay tuned if that is something that you want to use. Here is the [github](https://github.com/DecentralizeJustice/anonymousLocker/tree/btcpayEarner) branch for this update if you want to track its development. 
 
 ## Thanks
-I hope you found this quick write-up entertaining. I would like to thank Doug and Sunita from Monerotopia for being awesome and letting me do the dev segment on their show. I also want to thank [Vanessa](https://twitter.com/technologypoet) for the awesome interview. Most importantly I want to thank my awesome customers. Yall trusted a random person on the internet with your Monero and thank you so much for that leap of faith. I will continue to build a better service for the world to enjoy. 
+> "What if you woke up tomorrow with only things you were grateful for today? - Max Lucado"
+
+I hope you found this quick write-up entertaining. I would like to thank Doug and Sunita from Monerotopia for being awesome and letting me do the dev segment on their show. I also want to thank [Vanessa](https://twitter.com/technologypoet) for the awesome interview. Most importantly I want to thank my awesome customers. Y'all trusted a random person on the internet with your Monero and thank you so much for that leap of faith. I will continue to build a better service for the world to enjoy. 
