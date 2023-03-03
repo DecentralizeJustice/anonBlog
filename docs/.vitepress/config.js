@@ -1,4 +1,5 @@
 export default {
+  lang: 'en-US',
   themeConfig: {
     nav: [
       { text: 'Anon Shop', link: 'https://anonshop.app/' },
