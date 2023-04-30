@@ -11,7 +11,7 @@
             <div class="author">
               <div>
                 <!-- <h3 class="name">{{ author }}</h3> -->
-                <p class="date">{{ getDate(Date.parse(date)) }}</p>
+                <p class="date">{{ getDate(date) }}</p>
               </div>
             </div>
           </div>
@@ -49,10 +49,10 @@
     },
     methods: {
       getDate(epoch){
-        var d = new Date(epoch)
-        const month = d.toLocaleString('default', { month: 'long' });
-        const day = d.getDay()
-        const year = d.getFullYear()
+        const monthSlice = epoch.slice(5,7)
+        const month = Intl.DateTimeFormat('en', { month: 'long' }).format(new Date(monthSlice))
+        const day = epoch.slice(8,10)
+        const year = epoch.slice(0,4)
         return day + " " + month + " " + year
       },
       truncateText(text, length) {

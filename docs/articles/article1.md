@@ -1,5 +1,6 @@
 ---
 Updated: 2022-11-15
+Author: Author 2
 image: https://res.cloudinary.com/dylevfpbl/image/upload/v1673328539/blog/dgoon21_computer_fall_leaves_autumn_4ba165b9-ede2-4380-bb91-6397a594021d.png
 ---
 
