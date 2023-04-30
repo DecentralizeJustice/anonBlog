@@ -13,8 +13,8 @@ export default {
       } */
     ]
   },
-  title: 'Anon Shop Blog',
-  description: 'The blog for Anon Shop',
+  title: 'Anon Industries Blog',
+  description: 'The blog for Anon Industries',
   head: [
     ['script', 
       {
