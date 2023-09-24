@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/dylevfpbl/image/upload/v1695523333/blog/dgoon2
 
 # Sorry for the Wait
 
-> Update After Months
+> Update After Months of Radio Silence
 
 <!-- more -->
 
